@@ -31,6 +31,7 @@ It has a carry-input.
  ## BOOLEAN EXPRESSION
  
  **Sum= A ^ B ^ C**
+ 
  **Carry = A & B + Cin & (A ^ B)**
  
  --
