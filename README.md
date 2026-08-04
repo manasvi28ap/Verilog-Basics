@@ -2,17 +2,23 @@
 
 Welcome to the **Verilog Basics** repository!
 
-This repository contains implementations of fundamental digital design concepts using **Verilog HDL**, along with their corresponding **testbenches**, **simulation waveforms**, and **documentation**.
+This repository contains implementations of Combinational Circuits design  concepts using **Verilog HDL**, along with their corresponding **testbenches**, **simulation waveforms**, and **documentation**.
 
 ## 📂 Projects
 
 - Half Adder
 - Full Adder
 - 2:1 Multiplexer (MUX)
+- 4:1 Multiplexer
+- 8:1 Multiplexer
+- 1:2 Demultiplexer
 - Decoder
 - Encoder
+- Priority Encoder
 - Comparator
-- Arithmetic Logic Unit (ALU)
+- Parity Generator
+- Parity Checker
+- 4-bit Arithmetic Logic Unit (ALU)
 
 > More projects will be added as I continue learning Verilog.
 
@@ -30,43 +36,26 @@ Verilog-Basics/
 ├── rtl/
 ├── testbench/
 ├── waveforms/
-├── images/
 ├── docs/
 └── README.md
 ```
 
 ## 🎯 Objective
 
-To strengthen my understanding of **Digital Design** and **RTL Design** by implementing fundamental circuits in Verilog and verifying them through simulation.
+To strengthen my understanding of **Digital Design** and **RTL Design** by implementing Combinational circuits in Verilog and verifying them through simulation.
 
 ## 📌 Learning Outcomes
 
 Through this repository, I aim to:
 
 - Develop a strong foundation in Verilog HDL.
-- Understand combinational and sequential digital circuits.
+- Understand combinational circuits.
 - Write efficient RTL code.
 - Create and verify testbenches.
 - Analyze simulation waveforms.
 - Build a strong VLSI project portfolio.
 
 ---
-## 📸 Simulation Results
-
-### RTL Schematic
-
-![RTL Schematic](schematic.png)
-
-### RTL Layout
-
-![RTL Layout](layout.png)
-
-### Simulation Waveform
-
-![Simulation Waveform](waveform.png)
-
----
-
 ## 👩‍💻 Author
 
 **Manasvi**
