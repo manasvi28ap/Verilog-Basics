@@ -80,4 +80,4 @@ Interested in Digital Design, RTL Development, FPGA Design, and VLSI.
 ---
 
 ⭐ This repository is part of my VLSI learning journey. More projects and improvements will be added as I continue exploring digital design and hardware development.
-⭐ This repository is part of my VLSI learning journey. More projects and improvements will be added regularly.
+
