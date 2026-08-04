@@ -13,9 +13,20 @@ It has a carry-input.
 -Output : Sum , Cout (Carry -output)
 
 --
+## TRUTH TABLE
 
+| A | B | Cin | Sum | Cout |
+|---|---|-----|-----|------|
+| 0 | 0 |  0  |  0  |  0   |
+| 0 | 0 |  1  |  1  |  0   |
+| 0 | 1 |  0  |  1  |  0   |
+| 0 | 1 |  1  |  0  |  1   |
+| 1 | 0 |  0  |  1  |  0   |
+| 1 | 0 |  1  |  0  |  1   |
+| 1 | 1 |  0  |  0  |  1   |
+| 1 | 1 |  1  |  1  |  1   |
 
-
+--
 
  ## BOOLEAN EXPRESSION
  
