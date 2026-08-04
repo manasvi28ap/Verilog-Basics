@@ -51,5 +51,33 @@ Through this repository, I aim to:
 - Build a strong VLSI project portfolio.
 
 ---
+## 📸 Simulation Results
 
+### RTL Schematic
+
+![RTL Schematic](schematic.png)
+
+### RTL Layout
+
+![RTL Layout](layout.png)
+
+### Simulation Waveform
+
+![Simulation Waveform](waveform.png)
+
+---
+
+## 👩‍💻 Author
+
+**Manasvi**
+
+B.Tech – Electronics and Communication Engineering (VLSI)
+
+KL University
+
+Interested in Digital Design, RTL Development, FPGA Design, and VLSI.
+
+---
+
+⭐ This repository is part of my VLSI learning journey. More projects and improvements will be added as I continue exploring digital design and hardware development.
 ⭐ This repository is part of my VLSI learning journey. More projects and improvements will be added regularly.
