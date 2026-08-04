@@ -2,6 +2,14 @@
 ## OBJECTIVE
 To design and verify Half adder using Verilog HDL
 
+## THEORY
+
+Half Adder is a simple Combinational Circuit which uses single bit binary inputs A and B to produce outputs Sum = A XOR B and Carry = A AND B.
+
+It has no carry-in from a previous stage.
+
+--
+
 ## TRUTH TABLE
 | A | B | Sum | Carry |
 |---|---|-----|-------|
@@ -12,22 +20,47 @@ To design and verify Half adder using Verilog HDL
 
 --
  ## BOOLEAN EXPRESSION
+ 
  **Sum= A ^ B**
  **Carry = A & B**
  
  --
-## DESCRIPTION
 
-A half adder is a digital logic circuit that adds two single-bit binary inputs, producing a Sum and a Carry output without handling a carry-in from a previous stage. It uses one XOR gate and one AND gate
+## ADVANTAGES
 
- 
- It does not consider any carry input from a previous stage.
+- Simple Design
+- Low Hardware Requirement
+-  Fast Operation
 
----
+--
+## DISADVANTAGES
 
+- No carry-inputs
+- Limited Functionality : cannot perform multi-bit operations.
+
+
+--
 ## Applications
 
 - Arithmetic Logic Unit (ALU)
 - Digital Calculators
+- Processors
 - Binary Addition
 - FPGA and ASIC Design
+
+  --
+  ## 📸 Simulation Results
+
+### RTL Schematic
+
+![RTL Schematic](schematic.png)
+
+### RTL Layout
+
+![RTL Layout](layout.png)
+
+### Simulation Waveform
+
+![Simulation Waveform](waveform.png)
+
+---
