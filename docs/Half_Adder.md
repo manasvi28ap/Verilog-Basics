@@ -49,18 +49,22 @@ It has no carry-in from a previous stage.
 - FPGA and ASIC Design
 
   --
-  ## 📸 Simulation Results
+  ## Simulation Results
 
 ### RTL Schematic
 
-![RTL Schematic](schematic.png)
+![RTL Schematic](../waveforms/schematic.png)
+
+---
 
 ### RTL Layout
 
-![RTL Layout](layout.png)
+![RTL Layout](../waveforms/layout.png)
+
+---
 
 ### Simulation Waveform
 
-![Simulation Waveform](waveform.png)
+![Waveform](../waveforms/waveform.png)
 
 ---
