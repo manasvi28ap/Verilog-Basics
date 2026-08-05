@@ -27,7 +27,7 @@ Full Subtractor is a simple Combinational Circuit which uses single bit binary i
 --
  ## BOOLEAN EXPRESSION
  
- **Diff= A ^ B**
+ **Diff= A ^ B ^ Bin**
 **Bout = (~A & B) + (Bin & (~A + B))**
  
  --
