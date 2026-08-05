@@ -4,14 +4,14 @@ To design and verify Half Subtractor using Verilog HDL
 
 ## THEORY
 
-Half Subtractor is a simple Combinational Circuit which uses single bit binary inputs A and B to produce outputs Difference0 = A XOR B and Bout = A AND B.
+Half Subtractor is a simple Combinational Circuit which uses single bit binary inputs A and B to produce outputs Difference0 = A XOR B and Borrow = A AND B.
 
-It has no carry-in from a previous stage.
+
 
 --
 
 ## TRUTH TABLE
-| A | B | Diff | Bout |
+| A | B | Diff | Borrow |
 |---|---|-----|-------|
 | 0 | 0 |  0  |   0   |
 | 0 | 1 |  1  |   1   |
@@ -22,7 +22,7 @@ It has no carry-in from a previous stage.
  ## BOOLEAN EXPRESSION
  
  **Diff= A ^ B**
- **Bout = A' & B**
+ **Borrow = A' & B**
  
  --
 
