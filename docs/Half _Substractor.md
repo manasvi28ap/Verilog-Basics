@@ -1,10 +1,10 @@
-# HALF Substractor
+# HALF Subtractor
 ## OBJECTIVE
-To design and verify Half Substractor using Verilog HDL
+To design and verify Half Subtractor using Verilog HDL
 
 ## THEORY
 
-Half Substractor is a simple Combinational Circuit which uses single bit binary inputs A and B to produce outputs Difference0 = A XOR B and Bout = A AND B.
+Half Sustractor is a simple Combinational Circuit which uses single bit binary inputs A and B to produce outputs Difference0 = A XOR B and Bout = A AND B.
 
 It has no carry-in from a previous stage.
 
